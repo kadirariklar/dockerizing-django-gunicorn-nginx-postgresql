@@ -14,4 +14,4 @@ docker exec -d pyeditorial gunicorn -c /app/PyEditorial/gunicorn_config.py PyEdi
 
 echo "********************************************************"
 
-echo "You can reach the application on browser 'testcase.com' with SSL"  
+echo "You can reach the application on browser 'testcaseproject.com' with SSL"  
